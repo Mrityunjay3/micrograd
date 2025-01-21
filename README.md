@@ -1,7 +1,6 @@
 # Micrograd
 Micrograd is a tiny autograd engine that I built following the extremely intuitive lecture by Andrej Karpathy. Building micrograd was the stepping stone for me in the world of Machine Learning and Artificial Intelligence. By doing this exercise I got a clear understanding of neural nets and backpropagation. After that I didn't look back and continued to upskill myself in all sorts of machine learning and data science techniques.
 
-Here’s a well-structured `README.md` file for your project:
 
 ## Features
 
